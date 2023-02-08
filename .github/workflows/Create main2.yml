@@ -1,1 +1,1 @@
-$ git checkout --track -b ${Gedsh/master} origin/${Universalizer/Stealth}
+$ git checkout --track -b ${Gedsh:master} origin/${Universalizer:Stealth-Base-Master}
