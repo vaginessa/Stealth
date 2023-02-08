@@ -39,3 +39,5 @@ then
 git push --all $MYREPO git push
 --tags $MYREPO
 fi
+
+sh updateallbranches.sh origin Universalizer:Stealth
