@@ -1,1 +1,1 @@
-$ git fetch --recursive https://github.com/Gedsh/InviZible
+$ git push --all origin
