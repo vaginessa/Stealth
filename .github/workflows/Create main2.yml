@@ -1,9 +1,7 @@
 git fetch --tags upstream https://github.com/Gedsh/InviZible
 
-git fetch --tags upstream https://github.com/Gedsh/InviZible/tags
-
-git push --tags https://github.com/Universalizer/Stealth/tags/
+git push --tags https://github.com/Universalizer/Stealth
 
 git config --global push.followTags true
 
-git fetch --tags https://github.com/Gedsh/InviZible
+git fetch --tags <remote-url> https://github.com/Gedsh/InviZible
