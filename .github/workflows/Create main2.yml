@@ -1,1 +1,1 @@
-git magicpull --rebase upstream/* myremote/*
+git clone --recursive https://github.com/Gedsh/InviZible
