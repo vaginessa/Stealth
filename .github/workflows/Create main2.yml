@@ -1,2 +1,9 @@
-git fetch upstream
-git rebase upstream/master
+git fetch --tags upstream https://github.com/Gedsh/InviZible
+
+git fetch --tags upstream https://github.com/Gedsh/InviZible/tags
+
+git push --tags https://github.com/Universalizer/Stealth/tags/
+
+git config --global push.followTags true
+
+git fetch --tags https://github.com/Gedsh/InviZible
